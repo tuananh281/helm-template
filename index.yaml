@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  go-backend:
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2023-06-07T14:25:51.566699+07:00"
+    description: Common backend chart go
+    digest: 2d1461509218028b7b71a6b4d1faf86b5940ec337a02c8561ba50a09df56f47c
+    name: go-backend
+    type: application
+    urls:
+    - https://github.com/tuananh281/helm-template/go-backend-1.0.0.tgz
+    version: 1.0.0
+generated: "2023-06-07T14:25:51.5656685+07:00"
